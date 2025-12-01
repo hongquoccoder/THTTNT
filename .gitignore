@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (Môi trường ảo)
+venv/
+.venv/
+env/
+.env/
+
+# Biến môi trường (Chứa mật khẩu, API key - Tuyệt đối không push cái này)
+.env
