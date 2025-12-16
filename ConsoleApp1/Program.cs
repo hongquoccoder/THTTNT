@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("tao qua dep trai");
+            Console.WriteLine("tao qua dep trai1");
+            Console.WriteLine("tao qua dep trai2");
         }
     }
 }
