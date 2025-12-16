@@ -19,6 +19,7 @@ namespace ConsoleApp1
             Console.WriteLine("tao bi ngu");
             Console.WriteLine("tao bi ngu");
             Console.WriteLine("tao bi ngu");
+            Console.WriteLine("quoc bi ngu");
         }
     }
 }
