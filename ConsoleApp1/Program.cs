@@ -13,6 +13,12 @@ namespace ConsoleApp1
             Console.WriteLine("tao qua dep trai");
             Console.WriteLine("tao qua dep trai1");
             Console.WriteLine("tao qua dep trai2");
+            Console.WriteLine("tao bi ngu");
+            Console.WriteLine("tao bi ngu");
+            Console.WriteLine("tao bi ngu");
+            Console.WriteLine("tao bi ngu");
+            Console.WriteLine("tao bi ngu");
+            Console.WriteLine("tao bi ngu");
         }
     }
 }
